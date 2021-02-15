@@ -19,7 +19,7 @@ const Banner = () => {
                                     <li><FaPinterest /></li>
                                     <li><FaInstagram /> </li>
                                 </ul>
-                                <h1>I am Abdullah Amjad</h1>
+                                <h1>I am Jonathan Doe</h1>
                                 <p>I am Abdullah, professional Web Developer with long time experience</p>
                                 <div className="banner__btn">
                                     <a href="" className="btn btn-outline">My Portfolio</a>

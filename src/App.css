@@ -95,13 +95,18 @@ body{
   align-items: center;
   justify-content: center;
   margin: 0 10px;
+  transition: 0.5s ease;
+}
+.banner__ul li:hover{
+  background-color: #ff4a57;
+  
 }
 .banner__ul li:first-child{
   margin-left:0px ;
 }
 .banner__content h1{
   font-size: 37px;
-  font-weight: 500;
+  font-weight: 700;
   margin:20px 0;
 }
 .banner__content p{
@@ -121,6 +126,10 @@ body{
   border: 1px solid #ff4a57;
   border-radius: 50px;
   padding: 13px 40px;
+  transition: 0.5s ease;
+}
+.btn-outline:hover{
+  background-color: #ff4a57;
 }
 .btn-smart{
   background: #ff4a57;
